@@ -1,0 +1,44 @@
+
+/* generics */
+
+nav{
+    height: 100px;
+    border: 1px dashed;
+}
+
+.card{
+    height: 100px;
+}
+
+.container {
+    margin: 0 auto;
+}
+/* about */
+
+
+/* utils */
+.bg-dark-blue{
+    background-color: #2c3f50;
+}
+
+.bg-sea{
+    background-color: #1abc9c;
+}
+
+.bg-dark-pink{
+    background-color: #ba4b63;
+}
+
+.bg-light-blue{
+    background-color: #1da4b6;
+}
+
+.bg-cobalt{
+    background-color: #1c83c1;
+}
+
+.bg-light-brown{
+    background-color: #ccb2a3;
+}
+
+
