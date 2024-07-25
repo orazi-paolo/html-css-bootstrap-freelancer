@@ -25,7 +25,6 @@ img{
     height: 100px;
 }
 
-
 /* utils */
 .bg-dark-blue{
     background-color: #2c3f50;
@@ -61,3 +60,20 @@ img{
 .font-sm{
     font-size: 12px;
 }
+
+.stretch-dash-left {
+    display: inline-block;
+    transform: scaleX(3) scaleY(2);
+    position: relative;
+    top: 0;
+    left: -30px;
+  }
+
+  .stretch-dash-right {
+    display: inline-block;
+    transform: scaleX(3) scaleY(2);
+    position: relative;
+    top: 0;
+    left: 30px;
+  }
+
