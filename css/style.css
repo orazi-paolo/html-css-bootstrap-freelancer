@@ -13,8 +13,18 @@ nav{
 .container {
     margin: 0 auto;
 }
+img{
+    height: 250px;
+}
 
+ */
 /* footer */
+
+/* footer top */
+
+.bi .bi-facebook{
+    border: 1px solid white;
+}
 .bot-footer{
     height: 100px;
 }
